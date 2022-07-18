@@ -1,0 +1,119 @@
+Z	Element	No. of electrons per shell	Group
+1	Hydrogen	1	1
+2	Helium	2	18
+3	Lithium	2, 1	1
+4	Beryllium	2, 2	2
+5	Boron	2, 3	13
+6	Carbon	2, 4	14
+7	Nitrogen	2, 5	15
+8	Oxygen	2, 6	16
+9	Fluorine	2, 7	17
+10	Neon	2, 8	18
+11	Sodium	2, 8, 1	1
+12	Magnesium	2, 8, 2	2
+13	Aluminium	2, 8, 3	13
+14	Silicon	2, 8, 4	14
+15	Phosphorus	2, 8, 5	15
+16	Sulfur	2, 8, 6	16
+17	Chlorine	2, 8, 7	17
+18	Argon	2, 8, 8	18
+19	Potassium	2, 8, 8, 1	1
+20	Calcium	2, 8, 8, 2	2
+21	Scandium	2, 8, 9, 2	3
+22	Titanium	2, 8, 10, 2	4
+23	Vanadium	2, 8, 11, 2	5
+24	Chromium	2, 8, 13, 1	6
+25	Manganese	2, 8, 13, 2	7
+26	Iron	2, 8, 14, 2	8
+27	Cobalt	2, 8, 15, 2	9
+28	Nickel	2, 8, 16, 2	10
+29	Copper	2, 8, 18, 1	11
+30	Zinc	2, 8, 18, 2	12
+31	Gallium	2, 8, 18, 3	13
+32	Germanium	2, 8, 18, 4	14
+33	Arsenic	2, 8, 18, 5	15
+34	Selenium	2, 8, 18, 6	16
+35	Bromine	2, 8, 18, 7	17
+36	Krypton	2, 8, 18, 8	18
+37	Rubidium	2, 8, 18, 8, 1	1
+38	Strontium	2, 8, 18, 8, 2	2
+39	Yttrium	2, 8, 18, 9, 2	3
+40	Zirconium	2, 8, 18, 10, 2	4
+41	Niobium	2, 8, 18, 12, 1	5
+42	Molybdenum	2, 8, 18, 13, 1	6
+43	Technetium	2, 8, 18, 13, 2	7
+44	Ruthenium	2, 8, 18, 15, 1	8
+45	Rhodium	2, 8, 18, 16, 1	9
+46	Palladium	2, 8, 18, 18	10
+47	Silver	2, 8, 18, 18, 1	11
+48	Cadmium	2, 8, 18, 18, 2	12
+49	Indium	2, 8, 18, 18, 3	13
+50	Tin	2, 8, 18, 18, 4	14
+51	Antimony	2, 8, 18, 18, 5	15
+52	Tellurium	2, 8, 18, 18, 6	16
+53	Iodine	2, 8, 18, 18, 7	17
+54	Xenon	2, 8, 18, 18, 8	18
+55	Caesium	2, 8, 18, 18, 8, 1	1
+56	Barium	2, 8, 18, 18, 8, 2	2
+57	Lanthanum	2, 8, 18, 18, 9, 2
+58	Cerium	2, 8, 18, 19, 9, 2
+59	Praseodymium	2, 8, 18, 21, 8, 2
+60	Neodymium	2, 8, 18, 22, 8, 2
+61	Promethium	2, 8, 18, 23, 8, 2
+62	Samarium	2, 8, 18, 24, 8, 2
+63	Europium	2, 8, 18, 25, 8, 2
+64	Gadolinium	2, 8, 18, 25, 9, 2
+65	Terbium	2, 8, 18, 27, 8, 2
+66	Dysprosium	2, 8, 18, 28, 8, 2
+67	Holmium	2, 8, 18, 29, 8, 2
+68	Erbium	2, 8, 18, 30, 8, 2
+69	Thulium	2, 8, 18, 31, 8, 2
+70	Ytterbium	2, 8, 18, 32, 8, 2
+71	Lutetium	2, 8, 18, 32, 9, 2	3
+72	Hafnium	2, 8, 18, 32, 10, 2	4
+73	Tantalum	2, 8, 18, 32, 11, 2	5
+74	Tungsten	2, 8, 18, 32, 12, 2	6
+75	Rhenium	2, 8, 18, 32, 13, 2	7
+76	Osmium	2, 8, 18, 32, 14, 2	8
+77	Iridium	2, 8, 18, 32, 15, 2	9
+78	Platinum	2, 8, 18, 32, 17, 1	10
+79	Gold	2, 8, 18, 32, 18, 1	11
+80	Mercury	2, 8, 18, 32, 18, 2	12
+81	Thallium	2, 8, 18, 32, 18, 3	13
+82	Lead	2, 8, 18, 32, 18, 4	14
+83	Bismuth	2, 8, 18, 32, 18, 5	15
+84	Polonium	2, 8, 18, 32, 18, 6	16
+85	Astatine	2, 8, 18, 32, 18, 7	17
+86	Radon	2, 8, 18, 32, 18, 8	18
+87	Francium	2, 8, 18, 32, 18, 8, 1	1
+88	Radium	2, 8, 18, 32, 18, 8, 2	2
+89	Actinium	2, 8, 18, 32, 18, 9, 2
+90	Thorium	2, 8, 18, 32, 18, 10, 2
+91	Protactinium	2, 8, 18, 32, 20, 9, 2
+92	Uranium	2, 8, 18, 32, 21, 9, 2
+93	Neptunium	2, 8, 18, 32, 22, 9, 2
+94	Plutonium	2, 8, 18, 32, 24, 8, 2
+95	Americium	2, 8, 18, 32, 25, 8, 2
+96	Curium	2, 8, 18, 32, 25, 9, 2
+97	Berkelium	2, 8, 18, 32, 27, 8, 2
+98	Californium	2, 8, 18, 32, 28, 8, 2
+99	Einsteinium	2, 8, 18, 32, 29, 8, 2
+100	Fermium	2, 8, 18, 32, 30, 8, 2
+101	Mendelevium	2, 8, 18, 32, 31, 8, 2
+102	Nobelium	2, 8, 18, 32, 32, 8, 2
+103	Lawrencium	2, 8, 18, 32, 32, 8, 3	3
+104	Rutherfordium	2, 8, 18, 32, 32, 10, 2	4
+105	Dubnium	2, 8, 18, 32, 32, 11, 2	5
+106	Seaborgium	2, 8, 18, 32, 32, 12, 2	6
+107	Bohrium	2, 8, 18, 32, 32, 13, 2	7
+108	Hassium	2, 8, 18, 32, 32, 14, 2	8
+109	Meitnerium	2, 8, 18, 32, 32, 15, 2 1	9
+110	Darmstadtium	2, 8, 18, 32, 32, 16, 2 1	10
+111	Roentgenium	2, 8, 18, 32, 32, 17, 2, 1	11
+112	Copernicium	2, 8, 18, 32, 32, 18, 2, 1	12
+113	Nihonium	2, 8, 18, 32, 32, 18, 3, 1	13
+114	Flerovium	2, 8, 18, 32, 32, 18, 4, 1	14
+115	Moscovium	2, 8, 18, 32, 32, 18, 5, 1	15
+116	Livermorium	2, 8, 18, 32, 32, 18, 6, 1	16
+117	Tennessine	2, 8, 18, 32, 32, 18, 7, 1	17
+118	Oganesson	2, 8, 18, 32, 32, 18, 8, 1	18
